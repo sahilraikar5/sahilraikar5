@@ -17,7 +17,7 @@
 
 - :mailbox: How to reach me:
   <div id="badges">
-  <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
+  <a href="http://linkedin.com/in/sahil-raikar-419677312">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:sahilraikar2439@gmail.com">
