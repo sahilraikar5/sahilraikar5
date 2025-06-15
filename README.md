@@ -23,9 +23,7 @@
   <a href="mailto:sahilraikar2439@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/NHosalikar">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
-  </a>
+ 
 </div>
 
 ---
